@@ -1,5 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+-- load in Tidal boot file
+
 module VisualMacros where
 
 import Sound.Tidal.Context hiding(rand4)

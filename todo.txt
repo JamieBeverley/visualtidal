@@ -1,0 +1,7 @@
+gradient - color that things fade to - Nothing value produces fade to transparent version of current color
+
+line - just a rect specified by begin/end coordinates and stroke
+
+arcline - curved line with stroke
+
+- distributed shapes as their own param-patternable object, rather than things that will generate 64 samples played simultaneously
